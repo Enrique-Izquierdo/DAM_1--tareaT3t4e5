@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /home/Enrique/datos)
 =======
 (home/ivanlop8/datos)
 >>>>>>> origin/master
 =======
 (home/Rodrigo/datos)
+>>>>>>> origin/master
+=======
+(home/Aleix/datos)33
 >>>>>>> origin/master
